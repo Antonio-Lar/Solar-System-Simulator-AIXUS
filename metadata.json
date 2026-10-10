@@ -1,0 +1,8 @@
+{
+  "name": "Remix Simulador de Luz RGB",
+  "description": "Explora la mezcla aditiva de luz. Modifica los colores y la intensidad de tres focos para descubrir cómo se forma el color blanco y otros espectros lumínicos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
